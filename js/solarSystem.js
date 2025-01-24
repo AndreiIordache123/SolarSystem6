@@ -31,14 +31,14 @@ const uranusRingTexture = textureLoader.load("./image/uranus_ring.png");
 //////////////////////////////////////
 
 const planetInfo = {
-  Mercury: { name: "Mercury", description: "The closest planet to the Sun." },
+  Mercury: { name: "Mercur", description: "The closest planet to the Sun." },
   Venus: { name: "Venus", description: "The hottest planet in the Solar System." },
-  Earth: { name: "Earth", description: "The only planet known to support life." },
-  Mars: { name: "Mars", description: "Known as the Red Planet." },
+  Earth: { name: "Pamant", description: "The only planet known to support life." },
+  Mars: { name: "Marte", description: "Known as the Red Planet." },
   Jupiter: { name: "Jupiter", description: "The largest planet in the Solar System." },
   Saturn: { name: "Saturn", description: "Famous for its stunning ring system." },
   Uranus: { name: "Uranus", description: "An ice giant with a tilted axis." },
-  Neptune: { name: "Neptune", description: "The farthest planet from the Sun." },
+  Neptune: { name: "Neptun", description: "The farthest planet from the Sun." },
   Pluto: { name: "Pluto", description: "A dwarf planet in the Kuiper Belt." },
 };
 
